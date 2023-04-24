@@ -167,6 +167,21 @@
       "category": "income",
       "amount": "5000",
       "id": 24
+    },
+    {
+      "date": "2023-04-19",
+      "description": "mk",
+      "category": "ml",
+      "amount": "90",
+      "id": 25
+    },
+    {
+      "date": "2023-04-19",
+      "description": "mk",
+      "category": "ml",
+      "amount": "90",
+      "id": 26
     }
+    
   ]
 }
