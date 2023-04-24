@@ -85,17 +85,17 @@
       "amount": -975
     },
     {
-      "date": "2022-09-25",
-      "description": "description",
-      "category": "food",
-      "amount": "-0.01",
+      "date": "2022-07-09",
+      "description": "Office lunch",
+      "category": "Food",
+      "amount": "2000",
       "id": 13
     },
     {
-      "date": "",
-      "description": "lunch",
-      "category": "food",
-      "amount": "-0.01",
+      "date": "2022-07-09",
+      "description": "Office lunch Wednesday",
+      "category": "Food",
+      "amount": "3000",
       "id": 14
     },
     {
@@ -104,6 +104,69 @@
       "category": "",
       "amount": "",
       "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 16
+    },
+    {
+      "date": "2023-01-16",
+      "description": "salary",
+      "category": "salary",
+      "amount": "30000",
+      "id": 17
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 18
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 19
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "0.01",
+      "id": 20
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 21
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 22
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 23
+    },
+    {
+      "date": "2023-01-17",
+      "description": "food",
+      "category": "income",
+      "amount": "5000",
+      "id": 24
     }
   ]
 }
